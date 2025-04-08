@@ -1,0 +1,12 @@
+D:\.net\HTI\Finally DEPI\Finally_DEPI.BLL\bin\Debug\net8.0\Finally_DEPI.BLL.deps.json
+D:\.net\HTI\Finally DEPI\Finally_DEPI.BLL\bin\Debug\net8.0\Finally_DEPI.BLL.dll
+D:\.net\HTI\Finally DEPI\Finally_DEPI.BLL\bin\Debug\net8.0\Finally_DEPI.BLL.pdb
+D:\.net\HTI\Finally DEPI\Finally_DEPI.BLL\obj\Debug\net8.0\Finally_DEPI.BLL.csproj.AssemblyReference.cache
+D:\.net\HTI\Finally DEPI\Finally_DEPI.BLL\obj\Debug\net8.0\Finally_DEPI.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\HTI\Finally DEPI\Finally_DEPI.BLL\obj\Debug\net8.0\Finally_DEPI.BLL.AssemblyInfoInputs.cache
+D:\.net\HTI\Finally DEPI\Finally_DEPI.BLL\obj\Debug\net8.0\Finally_DEPI.BLL.AssemblyInfo.cs
+D:\.net\HTI\Finally DEPI\Finally_DEPI.BLL\obj\Debug\net8.0\Finally_DEPI.BLL.csproj.CoreCompileInputs.cache
+D:\.net\HTI\Finally DEPI\Finally_DEPI.BLL\obj\Debug\net8.0\Finally_DEPI.BLL.dll
+D:\.net\HTI\Finally DEPI\Finally_DEPI.BLL\obj\Debug\net8.0\refint\Finally_DEPI.BLL.dll
+D:\.net\HTI\Finally DEPI\Finally_DEPI.BLL\obj\Debug\net8.0\Finally_DEPI.BLL.pdb
+D:\.net\HTI\Finally DEPI\Finally_DEPI.BLL\obj\Debug\net8.0\ref\Finally_DEPI.BLL.dll
